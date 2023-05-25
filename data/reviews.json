@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "date": "May 1, 2023",
+        "image": "https://i.ibb.co/WKvcfy6/user5.png  ",
+        "name": "Kamala Devi",
+        "short_description": "Passionate about bringing the flavors of North India to the world.",
+        "chef": "Ranveer Brar"
+    },
+    {
+        "id": 2,
+        "date": "May 2, 2023",
+        "image": "https://i.ibb.co/XyXKScf/user4.png",
+        "name": "Mohan Patel",
+        "short_description": "Expert in the art of cooking South Indian cuisine.",
+        "chef": "Meenakshi Sundaram"
+    },
+    {
+        "id": 3,
+        "date": "May 3, 2023",
+        "image": "https://i.ibb.co/0K0XfKN/user2.png",
+        "name": "Raj Singh",
+        "short_description": "Specializes in the bold and flavorful cuisine of Punjab.",
+        "chef": "Saransh Goila"
+    },
+    {
+        "id": 4,
+        "date": "Apr 3, 2023",
+        "image": "https://i.ibb.co/0K0XfKN/user2.png",
+        "name": "Priya Sharma",
+        "short_description": "Master of the aromatic spices and ingredients of Bengali cuisine.",
+        "chef": "Kunal Kapur"
+    },
+    {
+        "id": 5,
+        "date": "Feb 3, 2023",
+        "image": "https://i.ibb.co/XyXKScf/user4.png",
+        "name": "Gita Patel",
+        "short_description": "Passionate about bringing the vibrant flavors of Gujarati cuisine to the world.",
+        "chef": "Sanjeev Kapoor"
+    },
+    {
+        "id": 6,
+        "date": "Mar 3, 2023",
+        "image": "https://i.ibb.co/5K6sc0t/user3.png",
+        "name": "Amit Singh",
+        "short_description": "Expert in the rich and decadent cuisine of Lucknow.",
+        "chef": "Zaheer Khan"
+    },
+    {
+        "id": 7,
+        "date": "Apr 31, 2023",
+        "image": "https://i.ibb.co/0K0XfKN/user2.png",
+        "name": "Anjali Desai",
+        "short_description": "Specializes in the complex and nuanced flavors of Rajasthani cuisine.",
+        "chef": "Madhur Jaffrey"
+    },
+    {
+        "id": 8,
+        "date": "Mar 23, 2023",
+        "image": "https://i.ibb.co/bJvjXg5/user1.png",
+        "name": "Suresh Kumar",
+        "short_description": "Master of the vegetarian delicacies of the western Indian state of Maharashtra.",
+        "chef": "Tarla Dalal"
+    }
+]
